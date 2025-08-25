@@ -49,6 +49,6 @@ print(set3)
 
 # Symmetric Difference Function = It returns the elements present in either set elements. But it will remove the duplicate elements from the both sets.
 set3 = set1.symmetric_difference(set2) # Here set1 symmetric_difference set2 and set2 symmetric_difference set1 are both same.
-print(set3)
+print(set3) 
 set3 = set2.symmetric_difference(set1)
 print(set3) 
